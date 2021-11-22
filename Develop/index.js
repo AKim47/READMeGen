@@ -114,7 +114,7 @@ const promptReadMe = readMeData => {
             type: 'list',
             name: 'license',
             message: questions[6],
-            choices: ['Apache License 2.0', 'ISC', 'MIT', 'GNU General Public License v3.0']
+            choices: ['none', 'apache-2.0', 'isc', 'mit', 'gpl-3.0']
         },
         {
             type: 'input',
