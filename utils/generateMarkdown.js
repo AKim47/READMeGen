@@ -16,7 +16,7 @@ function renderLicenseLink(license) {
     return '';
   }
   else {
-    return `[${license}](https://choosealicense.com/licenses/${license})`
+    return `Link to License: [${license}](https://choosealicense.com/licenses/${license})`
   }
 }
 
@@ -27,7 +27,10 @@ function renderLicenseSection(license) {
     return '';
   }
   else {
-    return `## License`
+    return `## License
+    
+    This project is covered under the ${license} license.
+    `
   }
 }
 
@@ -77,9 +80,9 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  [Github Link]()
+  [Github Link](https://www.github.com/${data.github})
 
-  Insert email here
+  If you have any questions, you can contact me at: ${data.email}
 
   ${renderLicenseSection(data.license)}
 
