@@ -1,10 +1,10 @@
-# asdfasdf 
+# ReadMeGen 
 
   ## Description
 
-  ![apache-2.0](https://img.shields.io/static/v1?label=license&message=apache-2.0&color=brightgreen)
+  ![isc](https://img.shields.io/static/v1?label=license&message=isc&color=brightgreen)
 
-  asdfasfdaef
+  Create a ReadMe file through git bash
 
   ## Table of Contents
 
@@ -17,30 +17,30 @@
 
   ## Installation
 
-  asdfasefaef
+  in the terminal run "npm install"
 
   ## Usage
 
-  dfasfefbr
+  Use this to simplify the creation of the ReadMe file
 
   ## Contribution Guidelines
 
-  asdfaefaf
+  Use however you want
 
   ## Tests
 
-  asdfaefef
+  No testing for this project
 
   ## Questions
 
-  [Github Link](https://www.github.com/adfaefef)
+  [Github Link](https://www.github.com/AKim47)
 
-  If you have any questions, you can contact me at: adsfaef
+  If you have any questions, you can contact me at: abel.kim.22@gmail.com
 
   ## License
     
-    This project is covered under the apache-2.0 license.
+    This project is covered under the isc license.
     
 
-  [apache-2.0](https://choosealicense.com/licenses/apache-2.0)
+  Link to License: [isc](https://choosealicense.com/licenses/isc)
   
